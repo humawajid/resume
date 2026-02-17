@@ -1,0 +1,32 @@
+body {
+    background-color: #E0D9D9;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 2px;
+    color: #2F5755
+}
+
+table {
+    
+     border-color:black;
+    
+
+}
+
+td {
+    background-color:#6FA4AF ;
+}
+
+th {
+    background-color: #5A9690;
+
+}
+h2{color:#2F5755 }
+a{
+    text-decoration: none;
+    cursor:pointer;
+}
+h3{color: #2F5755;}
+p,li{ color:#562F00 ;}
